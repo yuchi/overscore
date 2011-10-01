@@ -1,4 +1,3 @@
-
         /‾‾‾‾\___/‾‾‾‾\
     /‾‾|     /‾‾‾\     |
         \___/     \___/
@@ -15,7 +14,7 @@ Why?
 In Underscore.js only common patterns make it into the library. This is
 mainly to ensure the quality and stability of the implementation.
 
-This conflict with the *exuberance* of users, who often propose some different
+This conflicts with the *exuberance* of users, who often propose some different
 implementation, considering the actual ones not enough good, performant, feature
 rich.
 
