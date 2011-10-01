@@ -20,7 +20,7 @@ implementation, considering the actual ones not enough good, performant, feature
 rich.
 
 But the administrators of Underscore.js cannot put in the trunk something that's
-enough *well-established* and *known*. In one word: **Mainstream**.
+not enough *well-established* and *known*. In one word: **Mainstream**.
 
 Using *Overscore.js* you will be able to say:
 
@@ -35,9 +35,9 @@ Who?
 
 Actually the idea came out in a simple discussion on an Underscore.js pull
 request for the implementation of a map versione of `_.map`. Jeremy Ashkenas
-(@jaskenas) said the use was too less mainstream for Underscore, so the pun about
+(@jashkenas) said the use was too less mainstream for Underscore, so the pun about
 hipsters was quite obvious. Michael Mahemoff (@mahemoff) made a pun over the pun,
-proposing *Overscore*. @jaskenas officialized the project with a `+1`! (This not
+proposing *Overscore*. @jashkenas officialized the project with a `+1`! (This not
 really official, but we can pretend it is, ok?)
 
 You can read the discussion [here][1]
